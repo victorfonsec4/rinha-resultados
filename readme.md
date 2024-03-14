@@ -32,4 +32,6 @@ data: [
 
 Seu programa pode ser injustamente punido por essa falta de resolucao
 
+Se o seu programa teve erros o html gerado vai ter linhas diferentes entao ignorei esses resultados
+
 Abracos
